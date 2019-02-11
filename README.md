@@ -41,4 +41,4 @@ See [LICENSE](LICENSE)
 
 ## Build Status
 
-[![Build Status](https://travis-ci.org/firebase/quickstart-js.svg?branch=master)](https://travis-ci.org/firebase/quickstart-js)
+[![Build Status](https://travis-ci.org/firebase/quickstart-js.svg?branch=master)](https://travis-ci.org/firebase/quickstart-js)# quickstjsMessaging
